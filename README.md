@@ -12,6 +12,7 @@ hg38__refseq-r80__500bp_up_and_100bp_down_tss.mc9nr.feather
 
 
 ```
+conda activate pyscenic
 mkdir results
 ```
 
