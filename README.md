@@ -1,6 +1,15 @@
 # pySCENIC_implementation
 
+
+```
+pip install pyscenic
+
+
+
 Make sure the below files are saved in resources folder
+
+file available:  https://resources.aertslab.org/cistarget/databases/ and end with *.genes_vs_motifs.rankings.feather or *.genes_vs_tracks.rankings.feather
+
 
 hs_hgnc_tfs.txt 
 
